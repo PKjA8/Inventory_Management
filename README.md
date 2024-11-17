@@ -109,7 +109,7 @@ Open your terminal or command prompt.
 
 Clone the project repository:
 
-    git clone git@github.com:SyntaxSunset/Inventory-Management.git
+    git clone git@github.com:PKjA8/Inventory_Management.git
 Navigate to the project folder:
 
     cd Inventory-Management
